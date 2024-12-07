@@ -5,7 +5,7 @@ In this project, I focus on solving the 8-Puzzle problem using various algorithm
 
 ## Example Solve
 Video of me solving the 8-puzzle in 3 seconds.
-[![solve](https://github.com/user-attachments/assets/5637bcf0-547a-47bd-9154-c3507ce5ab16)](https://github.com/user-attachments/assets/09930217-7ea0-4f2d-9cde-afa7e61c2176)
+[![solve](https://github.com/user-attachments/assets/5637bcf0-547a-47bd-9154-c3507ce5ab16)]
 
 ## Discussion
 The detailed discussion of the project is available in the [paper](8_puzzle.pdf).
