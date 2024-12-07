@@ -12,7 +12,7 @@ Video of me solving the 8-puzzle in 3 seconds.
 The detailed discussion of the project is available in the [paper](8_puzzle.pdf).
 
 ## Code
-- **Full Code for 8-Puzzle Implementation:**  [Link to Full Code](8puzzle_Code.ipynb)
+- Full Code for 8-Puzzle Implementation:  [Link to Full Code](8puzzle_Code.ipynb)
 
 ## Credits
-- Tommaso Senatori
+- **Tommaso Senatori**
