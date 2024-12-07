@@ -5,7 +5,7 @@ In this project, I focus on solving the 8-Puzzle problem using various algorithm
 
 ## Example Solve
 
-![solve](https://github.com/user-attachments/assets/5637bcf0-547a-47bd-9154-c3507ce5ab16)]
+![solve](https://github.com/user-attachments/assets/5637bcf0-547a-47bd-9154-c3507ce5ab16)
 Video of me solving the 8-puzzle in 3 seconds.
 
 ## Discussion
