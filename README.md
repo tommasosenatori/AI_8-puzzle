@@ -1,4 +1,4 @@
-# 8-Puzzle AI Benchmark
+# Optimizing the 8-Puzzle: Algorithms, Heuristics, and God’s Number
 
 ## Overview
 In this project, I focus on solving the 8-Puzzle problem using various algorithms and heuristics. I implemented both uninformed search algorithms (such as BFS, DFS, IDDFS, Dijkstra) and informed search algorithms (Greedy Best-First, A* with different heuristics). My goal was to examine the performance of these algorithms, and to determine the minimum number of moves required to solve any possible scramble, known as God's Number, which is 31. Additionally, I computed the optimal number of moves required to solve every possible configuration of the 8-puzzle and visualized the results in a histogram.
