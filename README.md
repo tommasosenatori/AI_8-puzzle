@@ -5,14 +5,14 @@ In this project, I focus on solving the 8-Puzzle problem using various algorithm
 
 ## Example Solve
 Video of me solving the 8-puzzle in 3 seconds.
-![]([https://github.com/user-attachments/assets/fd9074b4-5b2c-4b6d-ae6d-f670c08bd1b3](https://github.com/user-attachments/assets/be8c001f-f32a-4615-b665-6f0ef651caa9))
+[![solve](https://github.com/user-attachments/assets/5637bcf0-547a-47bd-9154-c3507ce5ab16)](https://github.com/user-attachments/assets/09930217-7ea0-4f2d-9cde-afa7e61c2176)
 
 ## Discussion
-The detailed discussion of the project is available in the [paper](8-puzzle.pdf).
+The detailed discussion of the project is available in the [paper](8_puzzle.pdf).
 
 ## Code
 - **Full Code for 8-Puzzle Implementation:**  
-  [Link to Full Code](8Puzzle_Code.ipynb)
+  [Link to Full Code](8puzzle_Code.ipynb)
 
 ## Credits
 - Tommaso Senatori
